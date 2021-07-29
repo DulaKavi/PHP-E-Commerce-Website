@@ -1,2 +1,1 @@
-# PHP-E-Commerce-Website
-This is a PHP based Full E-Commerce Website, developed using HTML, CSS, JavaScript and Bootstrap too.
+A complete solution for E-commerce Business with exclusive features & super responsive layout
